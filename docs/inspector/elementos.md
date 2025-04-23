@@ -1,10 +1,10 @@
 ---
 id: elementos
 title: Elementos
-sidebar_label: Elementos
+sidebar_label: Elementos 🔧
 ---
 
-# Elementos
+# Elementos 
 
 Vista estructurada del HTML y CSS
 Esta sección muestra el DOM (Document Object Model) de la página web, que es básicamente el HTML ya cargado en el navegador.

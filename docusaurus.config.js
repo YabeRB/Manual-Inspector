@@ -2,7 +2,7 @@ import {themes as prismThemes} from 'prism-react-renderer';
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'My Site',
+  title: 'Guía útil',
   tagline: 'Dinosaurs are cool',
   favicon: 'img/favicon.ico',
 
@@ -61,6 +61,7 @@ const config = {
       minHeadingLevel: 6,
       maxHeadingLevel: 6,
     },
+    navbar: {},
     docs: {
       sidebar: {
         hideable: false,

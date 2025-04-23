@@ -15,7 +15,16 @@ html[data-theme='dark'] {
 }
 
 .navbar {
-  box-shadow: none;
+  display: none !important;
+  height: 0 !important;
+  margin: 0 !important;
+  padding: 0 !important;
+  box-shadow: none !important;
+  background: transparent !important;
+}
+
+.main-wrapper {
+  padding-top: 0 !important;
 }
 
 /* Sidebar Links */

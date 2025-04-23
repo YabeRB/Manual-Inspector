@@ -1,7 +1,7 @@
 ---
 id: consola
 title: Consola
-sidebar_label: Consola
+sidebar_label: Consola 💻
 ---
 
 # Consola

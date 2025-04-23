@@ -1,7 +1,7 @@
 ---
 id: tips-y-trucos
 title: Tips y trucos
-sidebar_label: Tips y trucos
+sidebar_label: Tips y trucos ­­­­💡
 ---
 
 # Tips y trucos

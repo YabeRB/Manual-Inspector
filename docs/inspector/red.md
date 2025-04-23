@@ -1,7 +1,7 @@
 ---
 id: red
 title: Red
-sidebar_label: Red
+sidebar_label: Red 🌐
 ---
 
 # Red

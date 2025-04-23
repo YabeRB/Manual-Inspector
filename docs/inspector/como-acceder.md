@@ -1,7 +1,7 @@
 ---
 id: como-acceder
 title: ¿Cómo acceder al Inspector?
-sidebar_label: ¿Cómo acceder?
+sidebar_label: ¿Cómo acceder? 🚪
 ---
 
 # ¿Cómo acceder?

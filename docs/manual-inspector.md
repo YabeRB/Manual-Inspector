@@ -6,13 +6,13 @@ sidebar_position: 1
 toc: false
 ---
 
-# 🛠️ Manual del Inspector de Elementos
+# Manual del Inspector de Elementos
 
 El inspector de elementos de tu navegador es una herramienta poderosa para analizar y modificar páginas web en tiempo real.
 
 ---
 
-## 🚪 ¿Cómo acceder?
+## ¿Cómo acceder?
 
 Para abrir el Inspector:
 
@@ -23,7 +23,7 @@ Para abrir el Inspector:
 
 ## 📂 Principales secciones
 
-### 1. 🔧 **Elements**  
+### 1. **Elements**  
 Aquí puedes **ver y editar el HTML** de la página. También puedes:
 
 - Ver los estilos CSS aplicados al momento.
@@ -35,7 +35,7 @@ Aquí puedes **ver y editar el HTML** de la página. También puedes:
 
 ---
 
-### 2. 💻 **Console**  
+### 2. **Console**  
 Permite **ver errores de JavaScript** y ejecutar comandos.
 
 - Accede al entorno JS de la página.
@@ -46,7 +46,7 @@ Permite **ver errores de JavaScript** y ejecutar comandos.
 
 ---
 
-### 3. 🌐 **Network**  
+### 3. **Network**  
 Herramienta para **ver las peticiones de red**:
 
 - Carga de imágenes, scripts, y otros recursos.
@@ -58,7 +58,7 @@ Herramienta para **ver las peticiones de red**:
 
 ---
 
-## 💡 Tips
+## Tips
 
 - ✏️ Puedes **modificar texto directamente en el HTML** y ver los cambios al instante (útil para maquetado rápido).
 - 🕵️ Usa el **icono de selección** (arriba a la izquierda del inspector) para inspeccionar elementos específicos pasando el mouse por ellos.
