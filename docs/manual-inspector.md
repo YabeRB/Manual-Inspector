@@ -6,27 +6,62 @@ sidebar_position: 1
 toc: false
 ---
 
-# Manual del Inspector de Elementos
+# 🛠️ Manual del Inspector de Elementos
 
 El inspector de elementos de tu navegador es una herramienta poderosa para analizar y modificar páginas web en tiempo real.
 
-## ¿Cómo acceder?
+---
 
-- Haz clic derecho sobre cualquier parte de la página.
-- Selecciona **"Inspeccionar"** o pulsa `Ctrl + Shift + I`.
+## 🚪 ¿Cómo acceder?
 
-## Principales secciones
+Para abrir el Inspector:
 
-### 1. **Elements**
-Aquí puedes ver y editar el HTML.
+- 🖱️ Haz clic derecho sobre cualquier parte de la página.
+- ⌨️ Pulsa `Ctrl + Shift + I` (o `Cmd + Option + I` en macOS).
 
-### 2. **Console**
-Te permite ver errores y ejecutar comandos JavaScript.
+---
 
-### 3. **Network**
-Útil para ver llamadas a APIs, carga de recursos, etc.
+## 📂 Principales secciones
 
-## Tips
+### 1. 🔧 **Elements**  
+Aquí puedes **ver y editar el HTML** de la página. También puedes:
 
-- Puedes modificar texto directamente en el HTML y ver los cambios reflejados.
-- Usa el icono de selección (esquina superior izquierda del inspector) para inspeccionar elementos específicos.
+- Ver los estilos CSS aplicados al momento.
+- Activar/desactivar reglas CSS temporalmente.
+- Cambiar texto o etiquetas directamente.
+- Ver estructura DOM en forma de árbol.
+
+📌 **Ejemplo de uso:** Cambiar el color de un botón antes de modificar el CSS real.
+
+---
+
+### 2. 💻 **Console**  
+Permite **ver errores de JavaScript** y ejecutar comandos.
+
+- Accede al entorno JS de la página.
+- Usa comandos como `document.querySelector()` para manipular elementos.
+- Visualiza mensajes con `console.log()`.
+
+📌 **Ejemplo de uso:** Depurar funciones de formularios o scripts de interacción.
+
+---
+
+### 3. 🌐 **Network**  
+Herramienta para **ver las peticiones de red**:
+
+- Carga de imágenes, scripts, y otros recursos.
+- Ver tiempos de respuesta.
+- Revisar llamadas AJAX o fetch.
+- Analizar encabezados y respuestas HTTP.
+
+📌 **Ejemplo de uso:** Comprobar si una API devuelve los datos esperados.
+
+---
+
+## 💡 Tips
+
+- ✏️ Puedes **modificar texto directamente en el HTML** y ver los cambios al instante (útil para maquetado rápido).
+- 🕵️ Usa el **icono de selección** (arriba a la izquierda del inspector) para inspeccionar elementos específicos pasando el mouse por ellos.
+- 🔁 Los cambios hechos en el inspector **no se guardan permanentemente**, sirven para pruebas en vivo.
+
+---
