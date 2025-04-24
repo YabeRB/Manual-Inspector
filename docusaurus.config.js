@@ -6,9 +6,9 @@ const config = {
   tagline: 'Dinosaurs are cool',
   favicon: 'img/favicon.ico',
 
-  url: 'https://your-docusaurus-site.example.com',
+  url: 'https://997027286.senati.chat.pe',
 
-  baseUrl: '/',
+  baseUrl: '/docusaurus/',
 
   organizationName: 'facebook',
   projectName: 'docusaurus', 
@@ -32,18 +32,7 @@ const config = {
         },
         pages: false,
 
-        blog: {
-          showReadingTime: true,
-          feedOptions: {
-            type: ['rss', 'atom'],
-            xslt: true,
-          },
-          editUrl:
-            'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
-          onInlineTags: 'warn',
-          onInlineAuthors: 'warn',
-          onUntruncatedBlogPosts: 'warn',
-        },
+        blog: false,
         theme: {
           customCss: './src/css/custom.css',
         },
