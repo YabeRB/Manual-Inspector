@@ -7,4 +7,4 @@ hide_table_of_contents: true
 
 import {Redirect} from '@docusaurus/router';
 
-<Redirect to="/manual-inspector" />
+<Redirect to="/docusaurus/manual-inspector/" />
