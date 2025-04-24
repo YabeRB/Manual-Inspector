@@ -11,7 +11,8 @@ module.exports = {
         'inspector/elementos',
         'inspector/consola',
         'inspector/red',
-        'inspector/tips-y-trucos',
+        'inspector/casos-de-uso-inspector',
+        'inspector/tips-y-trucos'
       ],
     },
   ],
